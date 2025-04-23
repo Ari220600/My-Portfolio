@@ -30,11 +30,16 @@ const About = () => {
           <p className="text-gray-400 max-w-2xl mx-auto">
             I am a <strong>Developer</strong> expertised in
             <br />
-            creating exceptional digital experiences through innovative coding,
-            with expertise in developing immersive web applications using
-            cutting-edge technologies. Proficient in the field of Generative AI,
-            bringing a wealth of experience to deliver transformative
-            solutions...
+            AI/ML & GenAI Developer | Agentic AI | Computer Vision | Full-Stack
+            Web Apps Innovative and results-driven AI/ML developer with strong
+            experience in Generative AI, Agentic AI architectures, and Computer
+            Vision. Skilled in designing and deploying intelligent systems that
+            blend deep learning models with real-world applications. Proficient
+            in building robust, scalable full-stack web applications,
+            integrating cutting-edge AI solutions with seamless user
+            experiences. Passionate about pushing the boundaries of machine
+            intelligence through automation, perception, and interactive
+            technologies....
           </p>
         </motion.div>
 
