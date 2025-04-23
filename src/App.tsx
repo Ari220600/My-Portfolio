@@ -4,7 +4,7 @@ import Hero from "./components/Sections/Hero";
 import About from "./components/Sections/About";
 import Projects from "./components/Sections/Projects";
 import Contact from "./components/Sections/Contact";
-import Preloader from "./components/Layout/PreLoader";
+import Preloader from "./components/Layout/Preloader";
 
 function App() {
   useEffect(() => {
