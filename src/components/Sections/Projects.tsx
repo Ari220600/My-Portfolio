@@ -10,7 +10,8 @@ const projects = [
       "Using YOLO model Football match can be analysed in live time to detect players' speed position, Ball's position nd posession percentage among the tams also camera angles.",
     image:
       "https://ik.imagekit.io/leoblaze969/ftbl.png?updatedAt=1745448544252",
-    video: "public/assets/vdo/Football_Yolo.mp4",
+    video:
+      "https://ik.imagekit.io/leoblaze969/Football_Yolo.mp4?updatedAt=1745448683029",
     tags: ["Python", "AI", "VISION-MODEL", "Machine Learning"],
     links: {
       demo: "",
@@ -24,7 +25,8 @@ const projects = [
       "This is a Landing page for imaginary AI based website Brainwave using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.",
     image:
       "https://ik.imagekit.io/leoblaze969/brnv.png?updatedAt=1745448544009",
-    video: "public/assets/vdo/Brainwave-Ai-tool-landing-page.mp4",
+    video:
+      "https://ik.imagekit.io/leoblaze969/Brainwave-Ai-tool-landing-page.mp4?updatedAt=1745448702721",
     tags: ["React", "Tailwind", "GSAP"],
     links: {
       demo: "https://brainwave-ai-tool-landing-page.netlify.app",
@@ -37,7 +39,8 @@ const projects = [
       "Using OLLAMA and LLAMA index and RAAG pyprline creating a code base chatbot that providing a code and info regarding the topic that the code is based on this will be your assistant ro walk through and improve the CODE... Further improvement can be done upon Fine tuning....(Ongoing)",
     image:
       "https://ik.imagekit.io/leoblaze969/LLama.png?updatedAt=1745448543836",
-    video: "public/assets/vdo/LLama.mp4",
+    video:
+      "https://ik.imagekit.io/leoblaze969/LLama.mp4?updatedAt=1745448688200",
     tags: ["Ollama", "LLama index", "GEN AI", "Python", "RAAG"],
     links: {
       demo: "",
@@ -51,7 +54,8 @@ const projects = [
       "This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.",
     image:
       "https://ik.imagekit.io/leoblaze969/iphn.png?updatedAt=1745448543860",
-    video: "public/assets/vdo/Iphone-15-Pro-clone.mp4",
+    video:
+      "https://ik.imagekit.io/leoblaze969/Iphone-15-Pro-clone.mp4?updatedAt=1745448692468",
     tags: ["React", "Three.js", "Tailwind", "GSAP"],
     links: {
       demo: "https://iphone-15-pro-clone-webapp.netlify.app/",
@@ -63,7 +67,8 @@ const projects = [
     description:
       "This project is a modern clone of the iconic Zentry website, built with React.js, Tailwind CSS, and GSAP to deliver a luxurious and immersive user journey. It features scroll-triggered animations, geometric clip-path transitions, and interactive 3D hover effects, all contributing to a sleek, cutting-edge aesthetic. Integrated video storytelling enhances engagement, while smooth UI/UX and full responsiveness ensure an elegant experience on all devices. Thoughtfully structured for code reusability and scalability, this clone reflects the spirit of Awwwards-winning design.",
     image: "https://ik.imagekit.io/leoblaze969/znt.png?updatedAt=1745448544093",
-    video: "public/assets/vdo/Zentry-landing-page.mp4",
+    video:
+      "https://ik.imagekit.io/leoblaze969/Zentry-landing-page.mp4?updatedAt=1745448705477",
     tags: ["React", "TypeScript", "GSAP", "Tailwind"],
     links: {
       demo: "https://zentry-landing-page-clone.netlify.app/",
